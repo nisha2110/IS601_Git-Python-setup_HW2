@@ -91,11 +91,11 @@ Linting files
 ......
 --------------------------------------------------------------------------------
 
-	tests/__init__.py::PYLINT PASSED                                         [ 25%]
+	tests/__init__.py::PYLINT PASSED                                         
 
-	tests/test_calculator.py::PYLINT PASSED                                  [ 50%]
+	tests/test_calculator.py::PYLINT PASSED                                  
 
-	tests/test_calculator.py::test_addition PASSED                           [ 75%]
+	tests/test_calculator.py::test_addition PASSED                           
 
-	tests/test_calculator.py::test_subtraction PASSED                        [100%]
+	tests/test_calculator.py::test_subtraction PASSED                        
 
